@@ -66,7 +66,7 @@ Use the `model.ipynb` to get started.
 - [Numpy](https://numpy.org/)
 - [Seaborn](https://seaborn.pydata.org/)
 - [Scikit Learn](https://scikit-learn.org/stable/)
-- ['TensoeFlow'](https://www.tensorflow.org/)
+- [TensorFlow'](https://www.tensorflow.org/)
 - [Streamlit](https://share.streamlit.io/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>

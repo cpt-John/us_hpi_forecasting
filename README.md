@@ -13,8 +13,6 @@
   <p align="center">
     A deep learning project using tensorflow package with EDA and interactive web-app
     <br />
-    <a href="https://github.com/cpt-John/us_hpi_forecastingus_hpi_forecasting/blob/master/model.ipynb"><strong><h2>Go EDA and modeling »</h2></strong></a>
-    <br />
     <a href="https://cpt-john-us-hpi-forecasting-streamlit-y33hzf.streamlitapp.com/"><strong><h2>Go to deployed web app »</h2></strong></a>
     <br />
     <br />

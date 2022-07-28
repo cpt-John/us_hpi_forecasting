@@ -13,9 +13,9 @@
   <p align="center">
     A deep learning project using tensorflow package with EDA and interactive web-app
     <br />
-    <a href=""><strong><h2>Go EDA and modeling »</h2></strong></a>
+    <a href="https://github.com/cpt-John/us_hpi_forecastingus_hpi_forecasting/blob/master/model.ipynb"><strong><h2>Go EDA and modeling »</h2></strong></a>
     <br />
-    <a href=""><strong><h2>Go to deployed web app »</h2></strong></a>
+    <a href="https://cpt-john-us-hpi-forecasting-streamlit-y33hzf.streamlitapp.com/"><strong><h2>Go to deployed web app »</h2></strong></a>
     <br />
     <br />
   </p>
@@ -88,7 +88,7 @@ Find instructions to install the following software if you are not using web-bas
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/cpt-John/
+   git clone https://github.com/cpt-John/us_hpi_forecasting
    ```
 2. Install python packages
 
@@ -115,7 +115,7 @@ The `serialized` directory will contain files which are serialized to save the t
    streamlit run streamlit.py
    ```
 
-### You can view the deployment on live server here <a href=""><strong>Go to web app »</strong></a>
+### You can view the deployment on live server here <a href="https://cpt-john-us-hpi-forecasting-streamlit-y33hzf.streamlitapp.com/"><strong>Go to web app »</strong></a>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -137,9 +137,9 @@ John Francis - johnfrancis95815@gmail.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/cpt-John/?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/cpt-John/us_hpi_forecasting?style=for-the-badge
 [contributors-url]: https://github.com/cpt-John
-[license-shield]: https://img.shields.io/github/license/cpt-John/?style=for-the-badge
-[license-url]: https://github.com/cpt-John//blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/cpt-John/us_hpi_forecasting?style=for-the-badge
+[license-url]: https://github.com/cpt-John/us_hpi_forecasting/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/john-francis-526999148/

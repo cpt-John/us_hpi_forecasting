@@ -15,7 +15,7 @@ st.markdown(" <p style='text-align: center'> This app predicts the data using a 
 | The data file can be found along with the source code \
 | There is also an EDA notebook along with the source</p>", unsafe_allow_html=True)
 st.markdown(
-    """<div style='display: flex;flex-direction: row;justify-content:center'><a href="https://github.com/cpt-John/">\
+    """<div style='display: flex;flex-direction: row;justify-content:center'><a href="https://github.com/cpt-John/us_hpi_forecasting">\
         Source Code</a><div style='padding-inline:0.5em'> | </div><a href="https://cpt-john.github.io/">Portfolio</a></div>
     """, unsafe_allow_html=True
 )
